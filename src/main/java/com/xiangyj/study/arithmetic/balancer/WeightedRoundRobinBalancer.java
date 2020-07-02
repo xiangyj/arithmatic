@@ -1,4 +1,4 @@
-package balancer;
+package com.xiangyj.study.arithmetic.balancer;
 
 import java.util.ArrayList;
 import java.util.List;
