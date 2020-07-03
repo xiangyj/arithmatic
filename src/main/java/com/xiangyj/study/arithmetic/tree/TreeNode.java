@@ -1,4 +1,4 @@
-package tree;
+package com.xiangyj.study.arithmetic.tree;
 
 /**
  * 二叉树节点Node

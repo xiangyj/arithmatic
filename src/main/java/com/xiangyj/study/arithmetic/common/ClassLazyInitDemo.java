@@ -1,4 +1,4 @@
-package common;
+package com.xiangyj.study.arithmetic.common;
 
 public class ClassLazyInitDemo {
 

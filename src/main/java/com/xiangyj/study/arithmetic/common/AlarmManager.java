@@ -1,4 +1,4 @@
-package common;
+package com.xiangyj.study.arithmetic.common;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 
